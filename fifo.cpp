@@ -1,3 +1,5 @@
+// Autor: Yuri Siqueira Dantas
+
 #include <iostream>
 #include <queue>
 
